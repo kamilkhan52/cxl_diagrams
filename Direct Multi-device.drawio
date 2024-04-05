@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T20:15:40.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="s9lBoqxLlpKhNt1t6jCz" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T20:16:58.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="wrPTllptpxziKqLlthK9" version="24.2.2" type="github">
   <diagram name="Page-1" id="vOVjw2sUqs3pXkwtSUeu">
     <mxGraphModel dx="1209" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,10 +97,10 @@
         <mxCell id="9PL6Qru1FU8mZOhrc3cB-15" value="" style="group;fillColor=default;gradientColor=none;strokeColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="360" y="170" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9PL6Qru1FU8mZOhrc3cB-16" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="9PL6Qru1FU8mZOhrc3cB-15" vertex="1">
+        <mxCell id="9PL6Qru1FU8mZOhrc3cB-16" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="9PL6Qru1FU8mZOhrc3cB-15" vertex="1">
           <mxGeometry width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9PL6Qru1FU8mZOhrc3cB-17" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;fontColor=#ffffff;" parent="9PL6Qru1FU8mZOhrc3cB-15" vertex="1">
+        <mxCell id="9PL6Qru1FU8mZOhrc3cB-17" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#146994;shadow=1;" parent="9PL6Qru1FU8mZOhrc3cB-15" vertex="1">
           <mxGeometry x="10" y="10" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9PL6Qru1FU8mZOhrc3cB-18" value="x16 PCIe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
